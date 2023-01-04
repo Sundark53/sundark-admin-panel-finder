@@ -11,7 +11,7 @@ try:
 	print(" ")
 	print("Örnek Tarama Şekili :  https://wwww.youtube.com/ ")
 	print(" ")
-	print("Hazırlayan : modded by sundark")
+	print("Modded : by sundark")
 	print("                                                                       ")
 	url = input(Fore.LIGHTGREEN_EX + "Paneli Tarancak Siteyi Giriniz : ")
 	print(" ")
